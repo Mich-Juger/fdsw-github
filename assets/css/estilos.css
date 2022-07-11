@@ -2,10 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.navbar-brand h2 {
+  font-family: 'Roboto', sans-serif;
+
+}
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/GettyImages-1221548295-2048x1365.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
