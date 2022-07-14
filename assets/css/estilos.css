@@ -12,6 +12,10 @@ body {
 
 /* Hero Section */
 
+.row i  {
+  color:rgba(25, 25, 112, 0.871);
+}
+
 #Hero-Section {
   background-image: url("../img/GettyImages-1221548295-2048x1365.jpg");
   background-repeat: no-repeat;
